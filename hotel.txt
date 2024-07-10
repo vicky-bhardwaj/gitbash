@@ -1,0 +1,2 @@
+hotel no=20
+total customer=238
